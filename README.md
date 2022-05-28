@@ -1,2 +1,2 @@
 # DigitalClock-C
-Digital Clock which works on terminal using C language
+Digital Clock which works on the terminal using C language
